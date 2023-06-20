@@ -1,3 +1,6 @@
+<img width="515" alt="Screenshot 2023-06-20 at 10 34 53 AM" src="https://github.com/Blahdude/React-Erg-Calculator/assets/84264585/33ae8ef6-bb35-4975-8db4-3280d44dbf37">
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
